@@ -1,1 +1,2 @@
-#hola
+print("HOLA")
+print("Chau")
